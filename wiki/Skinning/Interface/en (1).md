@@ -1,6 +1,6 @@
-# Interface skinning
+# Скиннинг интерфейса
 
-*See also: [Interface](/wiki/Client/Interface)*
+*См. также: [Интерфейс](/wiki/Client/Interface)*
 
 Interface skinning elements are used in multiple game modes or parts of the client's user interface.
 
